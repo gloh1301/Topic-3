@@ -1,0 +1,11 @@
+.jumbotron {
+  background-color: pink;
+  color: cyan;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: lightblue;
+  color: white;
+}

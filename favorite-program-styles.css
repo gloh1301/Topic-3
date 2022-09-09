@@ -1,0 +1,9 @@
+.jumbotron {
+  background-color: lightgrey;
+  color: orange;
+}
+
+h1 {
+  font-family: 'Antonio', sans-serif;
+  font-size: 60px;
+}
